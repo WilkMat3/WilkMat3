@@ -30,4 +30,4 @@ Users can create, assign, and track issues in a clean workflow interface.
 I've worked with clients to deliver small web projects, participating in planning, communication, and project management.
 
 ---
-**Portfolio:**[ _your site_ ](https://www.wilkdev.space/)
+**Portfolio:**[my site](https://www.wilkdev.space/)
